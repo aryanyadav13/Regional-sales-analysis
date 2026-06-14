@@ -1,4 +1,4 @@
-# Regional-sales-analysis
+# Regional_sales_analysis using_python_powerbi
 # EDA Regional Sales Analysis 📊
 
 ## Overview
